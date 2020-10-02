@@ -33,23 +33,11 @@
 .mouse{
     padding-top: 105px;
 }
+h2{
+    text-align: center;
+}
 .serv{
     color: white;
-}
-.what{
-    display:flex;
-    flex: row;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-.product{
-    margin-left: 500px;
-}
-.dev{
-    margin-left: auto;
-}
-.port{
-    text-align: center;
 }
 .conta h3 {
     color: white;
@@ -95,3 +83,18 @@ li{
     display: none;
 }
 
+.container-what{
+  text-align: center;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  
+}
+.des-descript {
+    display: none;
+}
+.descript{
+    display: none;
+}
+.text-des{
+    display: none;
+}

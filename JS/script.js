@@ -1,9 +1,32 @@
 $(document).ready(function(){
-    // $('.design').click(function(){
-    //     $('#des').toggle();
-    // });
-    // $('.dev').click(function(){
-    // $('#de').toggle().fadeIn("slow")
-    // })
-
+    $('.imag-desript').click(function(){
+        $('.des-descript').show();
+        $('.imag-desript').hide();
+    });
+    $('.des-descript').click(function(){
+        $('.imag-desript').show();
+        $('.des-descript').hide(); 
 });
+});
+ $(document).ready(function(){
+ $('.description').click(function(){
+     $('.descript').show()
+     $('.description').hide()
+
+ })
+ $('.descript').click(function(){
+    $('.description').show()
+    $('.descript').hide()  
+});
+});
+$(document).ready(function(){
+    $('.des').click(function(){
+        $('.text-des').show()
+        $('.des').hide()
+   
+    })
+    $('.text-des').click(function(){
+       $('.des').show()
+       $('.text-des').hide()  
+   });
+   });
