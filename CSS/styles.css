@@ -1,0 +1,97 @@
+
+ 
+.jumbotron{
+    background-image: url(../image/h_img.jpg);
+    background-size: cover;
+    
+ }
+
+ .hel{
+     padding-top: 150px;
+     color: white;
+ }
+ .hel h1{
+     padding-top:30px; 
+ }
+.about{
+    text-align: center;
+
+}
+.service{
+    background-image: url(../image/s_image.jpg);
+    background-size: cover;
+    
+}
+.serv{
+    text-align: center;
+    padding: 100px 0;
+}
+.conta{
+    background-image: url(../image/c_image.jpg);
+    background-size: cover;
+}
+.mouse{
+    padding-top: 105px;
+}
+.serv{
+    color: white;
+}
+.what{
+    display:flex;
+    flex: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.product{
+    margin-left: 500px;
+}
+.dev{
+    margin-left: auto;
+}
+.port{
+    text-align: center;
+}
+.conta h3 {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+input[type=text] {
+    height: 30px;
+    background-color: transparent;
+    margin-top: 20px;
+    color: white;
+}
+#infor {
+    margin-top: 20px;
+    height: 300px;
+    margin-bottom: 100px;
+    background-color: transparent;
+    color: white;
+}
+#infor::placeholder {
+    color: white;
+}
+input[type="text"]::placeholder {
+    color: white; 
+} 
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+  
+    
+}
+.find ul{
+    align-items: center;
+    margin-left: 200px;
+    padding-top: 30px
+    
+}
+.last{
+    text-align: center;
+}
+#des{
+    display: none;
+}
+
