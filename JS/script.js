@@ -30,3 +30,101 @@ $(document).ready(function(){
        $('.text-des').hide()  
    });
    });
+   $(document).ready(function(){
+   $('.image-over').mouseover(function() {
+    $('.ict').show();
+     $('.life').show();
+})
+
+$('.image-over').mouseout(function() {
+     $('.ict').hide();
+     $('.life').hide();
+})
+   });
+   $(document).ready(function(){
+    $('.over-image').mouseover(function() {
+     $('.comp').show();
+      $('.christ').show();
+ })
+ 
+ $('.over-image').mouseout(function() {
+      $('.comp').hide();
+      $('.christ').hide();
+ })
+    });
+
+    $(document).ready(function(){
+        $('.overlay').mouseover(function() {
+         $('.home').show();
+          $('.people').show();
+     })
+     
+     $('.overlay').mouseout(function() {
+          $('.home').hide();
+          $('.people').hide();
+     })
+        });
+
+        $(document).ready(function(){
+            $('.sco').mouseover(function() {
+             $('.today').show();
+              $('.prove').show();
+         })
+         
+         $('.sco').mouseout(function() {
+              $('.today').hide();
+              $('.prove').hide();
+         })
+            });
+
+            $(document).ready(function(){
+                $('.dore').mouseover(function() {
+                 $('.epi').show();
+                  $('.lil').show();
+             })
+             
+             $('.dore').mouseout(function() {
+                  $('.epi').hide();
+                  $('.lil').hide();
+             })
+                });
+
+                $(document).ready(function(){
+                    $('.josh').mouseover(function() {
+                     $('.mug').show();
+                      $('.kim').show();
+                 })
+                 
+                 $('.josh').mouseout(function() {
+                      $('.mug').hide();
+                      $('.kim').hide();
+                 })
+                    });
+
+                    $(document).ready(function(){
+                        $('.sharo').mouseover(function() {
+                         $('.rec').show();
+                          $('.bord').show();
+                     })
+                     
+                     $('.sharo').mouseout(function() {
+                          $('.rec').hide();
+                          $('.bord').hide();
+                     })
+                        });
+                        $(document).ready(function(){
+                            $('.bra').mouseover(function() {
+                             $('.kay').show();
+                              $('.border').show();
+                         })
+                         
+                         $('.bra').mouseout(function() {
+                              $('.kay').hide();
+                              $('.border').hide();
+                         })
+                            });
+        
+    
+    
+
+    
