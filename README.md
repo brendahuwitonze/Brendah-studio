@@ -22,7 +22,7 @@ Delani Studio is a studio that provides different services in  designs and devel
 * CASCADING-STYLE-SHEET(CSS)
 * MARKDOWN
 ## project-image
-![DELANI-STUDIO](../image/Delani.png)
+![DELANI-STUDIO](./image/Delani.png)
   ## here is the link 
 [Akan-name](https://brendahuwitonze.github.io/Akan-names/.)
 
