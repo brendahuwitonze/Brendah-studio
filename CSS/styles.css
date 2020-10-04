@@ -330,13 +330,11 @@ button {
     position: absolute;
     height: 100%;
     width: 100%;
-    opacity: 1;
     display: none;
 }
 
 .border {
     position: absolute;
-    opacity: 1;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -344,7 +342,7 @@ button {
     left: 50%;
     display: none;
     border: 2px dashed white;
-    padding: 20px 20px 20px;
+    padding: 20px 20px ;
 }
 
 .border p {
