@@ -1,57 +1,62 @@
-
- 
-.jumbotron{
+.jumbotron {
     background-image: url(../image/h_img.jpg);
     background-size: cover;
     background-position: center;
-    
- }
-
- .hel{
-     padding-top: 150px;
-     color: white;
- }
- .hel h1{
-     padding-top:30px; 
- }
-.about{
-    text-align: center;
-
 }
-.service{
+
+.hel {
+    padding-top: 150px;
+    color: white;
+}
+
+.hel h1 {
+    padding-top: 30px;
+}
+
+.about {
+    text-align: center;
+}
+
+.service {
     background-image: url(../image/s_image.jpg);
     background-size: cover;
-    
 }
-.serv{
+
+.serv {
     text-align: center;
     padding: 100px 0;
 }
-.conta{
+
+.conta {
     background-image: url(../image/c_image.jpg);
     background-size: cover;
 }
-.mouse{
+
+.mouse {
     padding-top: 105px;
 }
-h2{
+
+h2 {
     text-align: center;
 }
-.serv{
+
+.serv {
     color: white;
 }
+
 .conta h3 {
     color: white;
     text-align: center;
     padding-top: 40px;
 }
+
 input[type=text] {
     height: 30px;
     background-color: transparent;
     margin-top: 20px;
     color: white;
-    
 }
+
 #infor {
     margin-top: 20px;
     height: 200px;
@@ -59,60 +64,67 @@ input[type=text] {
     background-color: transparent;
     color: white;
 }
+
 #infor::placeholder {
     color: white;
 }
+
 input[type="text"]::placeholder {
-    color: white; 
-} 
-li{
+    color: white;
+}
+
+li {
     list-style-type: none;
     display: inline;
     padding: 10px;
-  
-    
 }
-.find ul{
+
+.find ul {
     align-items: center;
     margin-left: 200px;
     padding-top: 30px
-    
 }
-.last{
+
+.last {
     text-align: center;
 }
-#des{
+
+#des {
     display: none;
 }
 
-.container-what{
-  text-align: center;
-  padding-top: 45px;
-  padding-bottom: 30px;
-  
+.container-what {
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 30px;
 }
+
 .des-descript {
     display: none;
 }
-.descript{
+
+.descript {
     display: none;
 }
-.text-des{
+
+.text-des {
     display: none;
 }
-button{
+
+button {
     margin-bottom: 50px;
 }
-.im-one img{
+
+.im-one img {
     opacity: 1;
     display: block;
     width: 100%;
     height: auto;
     transition: .5s ease;
     backface-visibility: hidden;
-  
 }
- .ict{
+
+.ict {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -134,15 +146,13 @@ button{
     padding: 20px 20px 20px;
 }
 
-
-
 .life p {
     color: white;
     font-size: 45px;
     font-family: 'Peddana', serif;
-    
 }
-.comp{
+
+.comp {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -164,15 +174,13 @@ button{
     padding: 20px 20px 20px;
 }
 
-
-
 .christ p {
     color: white;
     font-size: 45px;
     font-family: 'Peddana', serif;
 }
 
-.home{
+.home {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -194,15 +202,13 @@ button{
     padding: 20px 20px 20px;
 }
 
-
-
 .people p {
     color: white;
     font-size: 45px;
     font-family: 'Peddana', serif;
 }
 
-.today{
+.today {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -221,10 +227,8 @@ button{
     left: 50%;
     display: none;
     border: 2px dashed white;
-    padding: 20px 20px 20px ;
+    padding: 20px 20px 20px;
 }
-
-
 
 .prove p {
     color: white;
@@ -232,19 +236,16 @@ button{
     font-family: 'Peddana', serif;
 }
 
-
-
-.epi{
+.epi {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
     width: 100%;
-    
     opacity: 1;
     display: none;
 }
 
-.lil{
+.lil {
     position: absolute;
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
@@ -256,8 +257,6 @@ button{
     border: 2px dashed white;
     padding: 20px 20px 20px;
 }
-
-
 
 .lil p {
     color: white;
@@ -265,8 +264,7 @@ button{
     font-family: 'Peddana', serif;
 }
 
-
-.mug{
+.mug {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -275,7 +273,7 @@ button{
     display: none;
 }
 
-.kim{
+.kim {
     position: absolute;
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
@@ -287,8 +285,6 @@ button{
     border: 2px dashed white;
     padding: 20px 20px 20px;
 }
-
-
 
 .kim p {
     color: white;
@@ -296,7 +292,7 @@ button{
     font-family: 'Peddana', serif;
 }
 
-.rec{
+.rec {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -305,7 +301,7 @@ button{
     display: none;
 }
 
-.bord{
+.bord {
     position: absolute;
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
@@ -317,8 +313,6 @@ button{
     border: 2px dashed white;
     padding: 20px 20px 20px;
 }
-
-
 
 .bord p {
     color: white;
@@ -326,7 +320,7 @@ button{
     font-family: 'Peddana', serif;
 }
 
-.kay{
+.kay {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
@@ -335,7 +329,7 @@ button{
     display: none;
 }
 
-.border{
+.border {
     position: absolute;
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
@@ -348,18 +342,17 @@ button{
     padding: 20px 20px 20px;
 }
 
-
-
 .border p {
     color: white;
     font-size: 45px;
     font-family: 'Peddana', serif;
 }
 
-.about ,.service, .container-what{
+.about, .service, .container-what {
     font-family: 'Peddana', serif;
     font-size: 20px;
 }
-.port h2{
+
+.port h2 {
     font-family: 'Peddana', serif;
 }
