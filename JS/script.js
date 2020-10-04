@@ -133,12 +133,12 @@ $(document).ready(function () {
 });
 $(document).ready(function () {
      $('.bra').mouseover(function () {
-          $('.kay').show();
+          $('.kayo').show();
           $('.border').show();
      })
 
      $('.bra').mouseout(function () {
-          $('.kay').hide();
+          $('.kayo').hide();
           $('.border').hide();
      })
 });
