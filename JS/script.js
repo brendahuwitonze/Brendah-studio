@@ -17,10 +17,6 @@ $("#submit").click(function () {
  
 });
 
-
-
-
-
 $(document).ready(function () {
      $('.imag-desript').click(function () {
           $('.des-descript').show();
