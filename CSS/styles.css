@@ -325,12 +325,12 @@ button {
     font-family: 'Peddana', serif;
 }
 
-.kay {
+.kayo {
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
     height: 100%;
     width: 100%;
-    opacity: 1;
+    /* opacity: 1; */
     display: none;
 }
 
