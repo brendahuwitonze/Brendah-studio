@@ -1,3 +1,26 @@
+$('document').ready(function(){
+
+
+$("#submit").click(function () {
+     var pilot = $("#name").val();
+     var basket = $("#email").val();
+     var comment = $("#infor").val();
+ 
+     if (pilot == '' || basket == '' || comment == '') {
+ 
+         alert("Inavlid information")
+     } else {
+ 
+         alert(pilot + " your meassage received. you are most welcome Thank you for contacting us.");
+     }
+ })
+ 
+});
+
+
+
+
+
 $(document).ready(function () {
      $('.imag-desript').click(function () {
           $('.des-descript').show();
